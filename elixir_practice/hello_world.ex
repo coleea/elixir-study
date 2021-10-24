@@ -14,6 +14,6 @@
 
 defmodule Modules do
     def main do
-        name = IO.gets('이름?')
+        IO.gets('이름?')
     end
 end
