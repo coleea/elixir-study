@@ -1,5 +1,5 @@
 
----
+<img src="./img/elixir_logo.png" width="300px">
 
 # 엘릭서의 문법
 
