@@ -16,4 +16,13 @@ defmodule Modules do
     def main do
         IO.gets('이름?')
     end
+
+    def test(arg1) do
+        IO.puts(arg1)
+    end
+
+    def test2(arg1, arg2) do
+        IO.puts(arg1)
+        IO.puts(arg2)
+    end
 end
